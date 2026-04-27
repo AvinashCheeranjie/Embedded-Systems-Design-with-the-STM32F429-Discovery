@@ -9,4 +9,4 @@ The hardware used was the STM32F429-Discovery microcontroller. The MCU was progr
 - Lab 5: Control of Stepper Motor
 
 ## Term Project
-My embedded system project involved designing a two-way Morse code translator.
+The term project involved designing a cybernetic system of our choice. I chose to design a two-way Morse code translator.
